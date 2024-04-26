@@ -3,4 +3,4 @@ Atividade para o curso de ADS na Faculdade Descomplica, com praticar a utilizaç
 
 ## Objetivos:
 - Subir commit com arquivo `index.html`
-- Subir commit com adição da pasta `imagem`, juntamente com a adição de uma imagem a ser referenciada no `index.html`.
+- Subir commit com adição da pasta `image`, juntamente com a adição de uma imagem a ser referenciada no `index.html`.
